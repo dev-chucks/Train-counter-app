@@ -1,0 +1,50 @@
+body {
+  background-image: url(trainstationnew.jpg);
+  background-size: cover;
+}
+
+h1 {
+  font-size: 150px;
+  color: rgb(237, 238, 238);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 1000;
+  margin-top: 100px;
+  margin-bottom: 0;
+  margin-left: 110px;
+}
+
+h2 {
+  color: whitesmoke;
+  font-size: 300px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 1000;
+  margin-top: 10px;
+  margin-left: 550px;
+  margin-bottom: 0;
+}
+
+button {
+  display: block;
+  background-color: red;
+  color: aliceblue;
+  border: none;
+  border-radius: 20px;
+  width: 600px;
+  height: 150px;
+  font-size: 50px;
+  font-weight: 700;
+  margin-left: 380px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+#save-btn {
+  background-color: rgb(177, 240, 83);
+  color: whitesmoke;
+}
+
+#save-el {
+  font-size:50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-left: 390px;
+}
